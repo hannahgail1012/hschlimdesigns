@@ -1,0 +1,261 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header {
+	height: 100px;
+	background-color: #3D779C;
+	width: 100%;
+}
+
+body {
+	background-color: aliceblue;
+}
+
+content {
+	padding: 10px;
+}
+
+nav {
+	text-align: right;
+	vertical-align: middle;
+	width: 100%;
+	border-bottom: 3pt indigo;
+	
+}
+
+li {
+	font-size: 20pt;
+	font-family: "DIN Condensed";
+	display: inline;
+	margin: 10pt;
+  	background: aliceblue;
+  	padding: 15px 10px 10px 10px; 
+  	width: 100px;
+  	height: 50px; 
+}
+
+ul{
+	padding-right: 50px;
+	padding-top: 35px;
+}
+
+.personal-logo {
+	margin-left: 10px;
+	margin-top: 13px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+h1{
+	font-family: "DIN Condensed";
+	font-size: 20pt;
+	text-align: center;
+	padding-top: 10pt;
+	
+}
+
+.about-head{
+	color: #3D779C;
+	text-align: left;
+	margin-left: 700px;
+	
+}
+
+.Selfie{
+	margin-left: 420px;
+}
+
+.artist-bio {
+	text-align: left;
+	margin-left: 700px;
+	line-height: 20px;
+	margin-right: 370px;
+	
+}
+
+p {
+	font-family: "Helvetica Neue Medium";
+	font-size: 10pt;
+	line-height: 20px;
+}
+
+#page-container {
+  position: relative;
+  min-height: 600vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+footer {
+	background-color: #3D779C;
+	height: 200px;
+	position: absolute;
+	width: 100%;
+}
+
+#footer-text {
+	text-align: center;
+	color: whitesmoke;
+}
+
+.column2 {
+	float: left;
+	width: 45%;
+	padding: 2%;
+}
+
+.column3 {
+	float: left;
+	width: 30%;
+	padding: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.center3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+
+.MA {
+	width: 36%;
+	margin-left: 155px;
+}
+
+
+.center5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+h2 {
+	font-family:"DIN Condensed";
+	font-size: 100pt;
+	color: #000080;
+	margin-left: 300px;
+	line-height: 50px;
+}
+
+.intro {
+	font-size: 16pt;
+	line-height: 30px;
+	margin-right: 300px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #E66C3C;
+}
+
+.column4 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.column5 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.column6 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.column7 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.column8 {
+  float: left;
+  width: 40%;
+  padding: 10px;
+}
+
+.column9 {
+  float: left;
+  width: 40%;
+  padding: 10px;
+}
+
+.column10 {
+  float: left;
+  width: 40%;
+  padding: 15px;
+}
+
+.column11 {
+  float: left;
+  width: 85%;
+  padding: 10px;
+}
+
+.column12 {
+  float: left;
+  width: 85%;
+  padding: 10px;
+}
+
+figcaption {
+	font-family: "Helvetica Neue Medium";
+	font-size: 10pt;
+	line-height: 20px;
+}
+
+.column13 {
+  float: left;
+  width: 27.5%;
+  padding: 17px;
+}
+
+.column14 {
+  float: left;
+  width: 55%;
+  padding: 17px;
+}
+
+.recently{
+	color: aliceblue;
+	padding: 100px 0 0 0 ;
+}
+
+.column15 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  background-color: #03A89E;
+}
+
+section {
+	padding: 10px, 10px, 100px, 10px
+}
+
+/* Resources (web3schools): 
+	https://www.w3schools.com/css/css_navbar_vertical.asp
+	https://www.w3schools.com/css/css_navbar_vertical.asp*/
